@@ -34,7 +34,7 @@ smartFrame:SetScript('OnEvent', function(self, event)
     do
         if(IsSpellKnown(spells.SwiftFlight.id)) then
             flySpell = spells.SwiftFlight.name
-        elseif(IsSpellKnown(spells.Flightid)) then
+        elseif(IsSpellKnown(spells.Flight.id)) then
             flySpell = spells.Flight.name
         end
     end
