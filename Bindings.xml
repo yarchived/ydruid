@@ -1,0 +1,20 @@
+<Bindings>
+	<Binding name="CLICK yDruidFrameSmart:LeftButton" header="YDRUID">
+	</Binding>
+	<Binding name="CLICK yDruidFrameBear:LeftButton" header="YDRUID">
+	</Binding>
+	<Binding name="CLICK yDruidFrameCat:LeftButton" header="YDRUID">
+	</Binding>
+	<Binding name="CLICK yDruidFrameTravel:LeftButton" header="YDRUID">
+	</Binding>
+	<Binding name="CLICK yDruidFrameAquatic:LeftButton" header="YDRUID">
+	</Binding>
+	<Binding name="CLICK yDruidFrameTree:LeftButton" header="YDRUID">
+	</Binding>
+	<Binding name="CLICK yDruidFrameMoonkin:LeftButton" header="YDRUID">
+	</Binding>
+	<Binding name="CLICK yDruidFrameMoonkinOrTree:LeftButton" header="YDRUID">
+	</Binding>
+	<Binding name="CLICK yDruidFrameUMOUNT:LeftButton" header="YDRUID">
+	</Binding>
+</Bindings>
